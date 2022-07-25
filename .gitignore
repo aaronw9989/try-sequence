@@ -1,0 +1,9 @@
+.idea/
+.gradle/
+build/
+
+*.iml
+# file we get from floobits
+.floo*
+# directory when using OSx
+.DS_Store
